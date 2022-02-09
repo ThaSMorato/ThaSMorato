@@ -1,7 +1,7 @@
 # Hi there, I'm Thales Morato 👋
 
-- 🔭 I’m currently working on [@DOT](https://dotgroup.com.br/) as Front End Developer
-- 🌱 I’m currently learning about Advanced Techs in JavaScript and React
+- 🔭 I’m currently working on [@Housecall Pro](https://www.housecallpro.com/) as Software Engineer II
+- 🌱 I’m currently learning about Advanced Techs in JavaScript, React, Ruby and Go
 - 💬 Ask me about [ React, React Native, JS, TS, Node, HTML ]
 - ⚡ Some fact: I play LOL since 2013
 
