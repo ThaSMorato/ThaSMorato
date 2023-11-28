@@ -8,7 +8,7 @@
 
 [![Meu perfil rocket](https://img.shields.io/badge/-🚀%20Rocketseat-%238257e6?style=flat)](https://app.rocketseat.com.br/me/thales-morato-07522)
 [![Meu perfil linkedin](https://img.shields.io/badge/-Linkedin-%230a66c2?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/thalesmorato/)
-[![Meu Curriculo](https://img.shields.io/badge/-👷%20Resume-success)](https://resume.io/r/l74LZvesv)
+[![Meu Curriculo](https://img.shields.io/badge/-👷%20Resume-success)](https://resume.io/r/FXDMpMrB6)
 
 #
 <h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
